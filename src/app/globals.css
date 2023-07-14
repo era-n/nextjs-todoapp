@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  height: 100vh;
+  color: #112d4e;
+  background-color: #f9f7f7;
+}
+
+#portal {
+  color: #112d4e;
+}
